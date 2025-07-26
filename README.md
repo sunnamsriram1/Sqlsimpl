@@ -25,9 +25,8 @@ pkg install git python -y
 git clone https://github.com/sunnamsriram1/Sqlsimpl
 cd Sqlsimpl
 git clone https://github.com/sqlmapproject/sqlmap
-cd sqlmap
-cd ..
 cp Sqlsimpl.sh/sqlmap
+cd sqlmap
 chmod +x Sqlsimpl.sh
 ./Sqlsimpl.sh
 
