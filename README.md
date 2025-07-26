@@ -14,13 +14,13 @@
 - [SQLMap](https://github.com/sqlmapproject/sqlmap) cloned into the same folder
 
 ## 🚀 Usage (Termux)
-```bash
+
 
 🎯 **Auto SQLMap Scanner with Simple Interface** — Built by [Sriram]
 
 ## 📦 Installation in Termux
 
-```bash
+
 pkg install git python -y
 git clone https://github.com/sunnamsriram1/Sqlsimpl
 cd Sqlsimpl
@@ -28,4 +28,3 @@ git clone https://github.com/sqlmapproject/sqlmap
 cd sqlmap
 chmod +x Sqlsimpl.sh
 ./Sqlsimpl.sh
-```bash
