@@ -26,6 +26,8 @@ git clone https://github.com/sunnamsriram1/Sqlsimpl
 cd Sqlsimpl
 git clone https://github.com/sqlmapproject/sqlmap
 cd sqlmap
+cd ..
+cp Sqlsimpl.sh/sqlmap
 chmod +x Sqlsimpl.sh
 ./Sqlsimpl.sh
 
